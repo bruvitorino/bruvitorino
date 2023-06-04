@@ -13,5 +13,3 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <div/><br/>
-
-  ![snake gif](https://github.com/bruvitorino/bruvitorino/blob/output/github-contribution-grid-snake.svg)
