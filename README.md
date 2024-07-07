@@ -12,5 +12,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Databricks-%23F37626?style=for-the-badge&logo=Databricks&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/ALURA-0033A0?style=flat-square&logo=alura&logoColor=white"/>
 <div/><br/>
-
